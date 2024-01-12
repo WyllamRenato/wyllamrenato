@@ -6,8 +6,8 @@
 
 <div>
    <a href="https://www.linkedin.com/in/wyllam-renato-77092929b/">
-   <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api?username=WyllamRenato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyllamRenato&layout=compact&langs_count=16&theme=dark"/>
+   <img height="160cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=WyllamRenato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="160cm" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyllamRenato&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
