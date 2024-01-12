@@ -6,7 +6,7 @@
 
 <div>
    <a href="https://www.linkedin.com/in/wyllam-renato-77092929b/">
-   <img height="180cm" width="42%" src="https://github-readme-stats.vercel.app/api?username=WyllamRenato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180cm" width="46%" src="https://github-readme-stats.vercel.app/api?username=WyllamRenato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180cm" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyllamRenato&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
