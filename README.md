@@ -1,15 +1,6 @@
  ## Olá! Me chamo Wyllam Renato
 
 -🎓 Cursando Ciência da Computação e Análise e Desenvolvimento de Sistemas
-
-
-
-<div>
-   <a href="https://www.linkedin.com/in/wyllam-renato-77092929b/">
-   <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=WyllamRenato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180cm" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyllamRenato&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
    <p>&#x1F468;&#x200D;&#x1F4BB;Linguagens:</p>
    <img align="center" alt="Wyll-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
