@@ -1,6 +1,6 @@
  ## Olá! Me chamo Wyllam Renato
 
--🎓 Cursando Ciência da Computação e Análise e Desenvolvimento de Sistemas
+-🎓 Análise e Desenvolvimento de Sistemas
 <div style="display: inline_block"><br>
    <p>&#x1F468;&#x200D;&#x1F4BB;Linguagens:</p>
    <img align="center" alt="Wyll-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
