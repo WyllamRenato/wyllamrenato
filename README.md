@@ -1,6 +1,6 @@
  ## Olá! Me chamo Wyllam Renato
 
--🎓 Ciência da Computação
+-🎓 Ciência da Computação <br>
 -🎓 Análise e Desenvolvimento de Sistemas
 <div style="display: inline_block"><br>
    <p>&#x1F468;&#x200D;&#x1F4BB;Linguagens:</p>
